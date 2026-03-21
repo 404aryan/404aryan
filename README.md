@@ -1,5 +1,6 @@
 #  About Me:
- I’m currently working on  <br>- Building projects in C++ (DSA-focused)  <br>- Web development (HTML, CSS, JavaScript)  <br>- Strengthening problem-solving skills  <br><br> I’m looking to collaborate on  <br>- Beginner-friendly open source projects  <br>- Web development projects  <br>- DSA practice groups  <br><br> I’m looking for help with  <br>- Advanced Data Structures & Algorithms  <br>- Backend development  <br>- System design basics  <br><br> I’m currently learning  <br>- Data Structures & Algorithms (C++)  <br>- Networking fundamentals (Subnetting, DHCP, etc.)  <br>- JavaScript and DOM manipulation  <br><br>💬 Ask me about  <br>- C++ basics  <br>- DSA beginner problems  <br>- Networking concepts (DHCP, Subnetting)  <br><br> Fun fact  <br>- I enjoy breaking down complex concepts into simple explanations   
+   Working on C++ (DSA) and Web Development; learning DSA, Networking, and JavaScript.
+   Open to collaboration and help with advanced DSA and backend; ask me about C++, DSA, and networking.
 
 
 ## Socials:
